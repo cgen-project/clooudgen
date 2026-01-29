@@ -7,7 +7,7 @@ import { Rocket, ShieldCheck, Zap, Users } from "lucide-react"
 
 export default function Home() {
   const router = useRouter()
-  const [seconds, setSeconds] = useState(5)
+  const [seconds, setSeconds] = useState(3)
 
   useEffect(() => {
     const interval = setInterval(() => {
