@@ -68,7 +68,7 @@ export default function Home() {
                   className="text-[#4173BE] transition-all duration-1000 ease-linear"
                   strokeWidth="8"
                   strokeDasharray={251.2}
-                  strokeDashoffset={251.2 - (251.2 * seconds) / 5}
+                  strokeDashoffset={251.2 - (251.2 * seconds) / 3}
                   strokeLinecap="round"
                   stroke="currentColor"
                   fill="transparent"
